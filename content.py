@@ -19,7 +19,7 @@ def content_count(path):
                 count += 1
         if (count > 4):
             print 'Check bdfiles.txt for Results'
-            print >> bdfiles, '%d Extra File(s) in %s. Remove Files' % (count - 4, root)
+            print >> bdfiles, '%d Extra File(s) in %s. Remove Files' % (count-4, root)
         else:
             print (count == 4)
 
