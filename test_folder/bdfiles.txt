@@ -1,0 +1,2 @@
+1 Extra File(s) in test_folder/Salsa2. Remove Files
+2 Extra File(s) in test_folder/Salsa . Remove Files
